@@ -1,10 +1,3 @@
-c = {'limpa': '\033[m',
-    'a': '\033[1;34m',
-    'ama': '\033[1;33m',
-    'lilás': '\033[1;35m',
-    'red': '\033[1;31m',
-    'green': '\033[1;32m',
-    'b': '\033[1;30m'}
 menu = """ESCOLHAR UMA DAS OPÇÕES ABAIXO:
 [ 1 ] DEPOSITAR
 [ 2 ] SACAR
